@@ -1,0 +1,15 @@
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\bin\Debug\netstandard2.0\ConginativeService.deps.json
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\bin\Debug\netstandard2.0\ConginativeService.dll
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\bin\Debug\netstandard2.0\ref\ConginativeService.dll
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\bin\Debug\netstandard2.0\ConginativeService.pdb
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ConginativeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ConginativeService.AssemblyInfoInputs.cache
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ConginativeService.AssemblyInfo.cs
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ConginativeService.csproj.CoreCompileInputs.cache
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ConginativeService.dll
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ref\ConginativeService.dll
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ConginativeService.pdb
+C:\Users\kumku\source\repos\ConginativeService\ConginativeService\ConginativeService\obj\Debug\netstandard2.0\ConginativeService.csproj.AssemblyReference.cache
